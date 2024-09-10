@@ -1,4 +1,4 @@
-### **Buscador de Atletas: Seu portal para o esporte brasileiro!** 
+### **Buscador de Atletas- ImersãoDev com Google Gemini** 
 
 **O que faz essa aplicação?**
 
